@@ -1,0 +1,25 @@
+/*
+* @Author: lenovo
+* @Date:   2017-12-05 09:50:55
+* @Last Modified by:   zxzxw
+* @Last Modified time: 2017-12-24 16:32:58
+*/
+*{
+	margin: 0;
+	padding: 0;
+	font-family: "苹果方黑","微软雅黑","宋体",sans-serif;
+	font-size: 12px;
+	list-style: none;
+}
+body{
+	background: #fff;
+}
+img{
+	border: none;
+}
+a{
+	text-decoration: none;
+}
+i{
+	font-style:normal;
+}
