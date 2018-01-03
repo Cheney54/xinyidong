@@ -14,7 +14,7 @@ body{
 	background: #f8f8f8;
 }
 .na{
-	
+
 	width: 1200px;
 	height: 30px;
 	background:#f5f5f5;
@@ -85,7 +85,7 @@ nav{
 	float: left;
 	margin-left: 35px;
 	margin-top: 40px;
-	
+
 }
 .zuobiao span{
 	line-height: 18px;
@@ -205,7 +205,7 @@ nav{
 	border: 1px solid #ffffff;
 	box-sizing: border-box;
 	background: url('')
-	
+
 }
 .biao{
 	width: 231px;
@@ -232,7 +232,7 @@ nav{
 	margin-right: 260px;
 	position: absolute;
 	top: 0;
-	left: 235px;	
+	left: 235px;
 }
 .yuan{
 	width: 200px;
@@ -245,15 +245,26 @@ nav{
 	bottom: 0;
 	margin-right: auto;
 	margin-left: auto;
+    z-index: 9999;
+
+}
+.bannerd.sahn{
+	background: red;
+	z-index: 99;
+}
+.shi.sahn{
+	background: red;
+	z-index: 99;
 
 }
 .shi{
 	width: 10px;
 	height: 10px;
 	border-radius: 50%;
-	background: black;
+	background: white;
 	float: left;
 	margin-right: 10px;
+    z-index: 10;
 	/* margin: 0 auto; */
 }
 .shi1{
@@ -287,7 +298,7 @@ nav{
     margin-left: 24px;
     margin-top: 16px;
     float: left;
-  
+
 }
 .i{
 	width: 80px;
@@ -296,7 +307,7 @@ nav{
 	float: left;
     color: black;
     margin-left: -9px;
-}  
+}
 .right-xia{
 	width: 230px;
 	height: 189px;
@@ -358,10 +369,10 @@ nav{
 	font-size: 12px;
 	color: white;
 	line-height: 32px;
-}	
+}
 .two3{
 	background:white;
-	border: 1px solid #666; 
+	border: 1px solid #666;
 	box-sizing: border-box;
 }
 .two4{
@@ -379,7 +390,7 @@ nav{
 	color: white;text-align: center;
 	line-height: 34px;
 	margin-left: 34px;
-	
+
 }
 .yh{
 	width: 1200px;
@@ -485,7 +496,7 @@ nav{
 	font-size: 18px;
 	line-height: 18px;
 	padding: 50px 0 0 25px;
-	float: left;	
+	float: left;
 }
 .box p{
 	width: 245px;
@@ -536,7 +547,7 @@ nav{
 .da1 p{
 	    width: 210px;
     padding: 10px 15px 0;
-   
+
     font-size: 14px;
     line-height: 14px;
     color: #808080;
@@ -552,7 +563,7 @@ nav{
     right: 0px;
     bottom: 0px; */
 }
-.da2{	
+.da2{
 	width: 241px;
 	height: 466px;
 	background: white;
@@ -561,20 +572,20 @@ nav{
 	 top: 0;
 	 left: 715px;
 	 border-right: 1px solid #f5f5f5
-	 ;	
+	 ;
 	 border-bottom: 1px solid #f5f5f5
-	 ;	
+	 ;
 	  border-top: 1px solid #f5f5f5
-	 ;	
+	 ;
 	  box-sizing: border-box; /* position: relative; */
 }
 .da2 h4{
 	font-size: 22px;
 	line-height: 28px;
-	color: black;	
+	color: black;
 	/* padding: 50px 0 0 25px; */
 	    padding: 24px 15px 0;
-	float: left;	
+	float: left;
 }
 .da2 p{
 	width: 210px;
@@ -583,7 +594,7 @@ nav{
     color: #808080;
     white-space: nowrap;
     overflow: hidden;
-   
+
 }
 .hua{
 	width: 238px;
@@ -594,14 +605,14 @@ nav{
 }
 .hua h4{
 	    padding: 28px 0 0 23px;
-    
+
     font-size: 20px;
     line-height: 20px;
     color: #ef2e72;
 }
 .hua p{
 	padding: 18px 0 0 23px;
-  
+
     font-size: 14px;
     line-height: 14px;
     color: #808080;
@@ -638,7 +649,7 @@ nav{
     background: #ffffff;
     overflow: hidden;
     border: 1px solid #f5f5f5;
-    box-sizing: 
+    box-sizing:border-box;
 }
 .yousi h4{
 	    float: left;
@@ -651,7 +662,7 @@ nav{
 }
 .yousi span{
 	float: right;
-   
+
     font-size: 16px;
     line-height: 20px;
     color: #808080;
@@ -702,7 +713,7 @@ nav{
     margin-top: -40px;
 }
 .take{
-	width: 722px;	
+	width: 722px;
 	height: 429px;
 	background: white;
 	float: right;
@@ -781,7 +792,7 @@ span em{
 	box-sizing: border-box;
 }
 .yiloo{
-	
+
 	background: white;
 	float: left;
     width: 120px;
@@ -989,11 +1000,11 @@ span em{
 }
 .foot2 div{
 	line-height: 33px;
-	
+
 }
 .foot2 a{
 	color: #666;
-	font-size: 12px;	
+	font-size: 12px;
 }
 .foot2 a:hover{
 	color:  #3EB4FA;
@@ -1005,11 +1016,11 @@ span em{
 .foot4{
 	padding-top: 10px;
 	overflow: hidden;
-	
+
 }
 .foot4 div{
 	line-height: 33px;
-	
+
 }
 .foot5{
 	padding: 0;
@@ -1024,7 +1035,7 @@ span em{
 	width: 160px;
 	height: 37px;
 	/* background: red; */
-	float: left;  
+	float: left;
 }
 .foot7{
 	width:21px;
@@ -1089,12 +1100,12 @@ span em{
 .box-1 h4{
 	    width: 260px;
     padding: 25px 0 0 40px;
-  
+
     font-size: 20px;
     line-height: 20px;
     color: #222222;
 
-  
+
     overflow: hidden;
    /* display: inline-block; */
    /* margin-top: -100px; */
@@ -1103,26 +1114,26 @@ span em{
 	    float: left;
     width: 260px;
     padding: 15px 0 0 40px;
-    
+
     font-size: 14px;
     line-height: 14px;
     color: #222222;
-  
+
     overflow: hidden;
- 
+
 }
 .box-1 span{
 	float: left;
 	width: 260px;
     padding: 10px 0 0 40px;
-    
+
     font-size: 16px;
     /* line-height: 16px; */
     color: #e40077;
-    
+
     overflow: hidden;
     /* margin-top: -10px; */
-   
+
 }
 .box-1 img{
 	width: 100px;
@@ -1149,4 +1160,123 @@ span em{
 .stray1{
 	border: 1px solid #f5f5f5;
 	box-sizing: border-box;
+}
+aside{
+	width: 32px;
+	height: 280px;
+	position: fixed;
+	left: 10px;
+	top: 0;
+	bottom: 0;
+	margin-bottom: auto;
+	margin-top: auto;
+}
+aside ul{
+	width: 100%;
+	height: 100%;
+	background: #fff;
+}
+.btn{
+	text-align: center;
+	vertical-align: middle;
+	width: 32px;
+	height: 42px;
+	box-sizing: border-box;
+	padding: 0 2px;
+	border-bottom: 1px dotted #333;
+	position: relative;
+	cursor: pointer;
+}
+.btn span{
+	width: 100%;
+	height: 100%;
+	display: block;
+	background: #00B0F9;
+	color: #fff;
+	position: absolute;
+	opacity: 0;
+	top: 0;
+	left: 0;
+	font-size: 12px;
+	box-sizing: border-box;
+	padding-top: 4px;
+}
+.btn.active span{
+	opacity: 1;
+}
+.btn span:hover{
+	opacity: 1;
+}
+#back{
+	border: none;
+	background: #918888;
+	font-size: 12px;
+	color: #fff;
+	height: 54px;
+	text-align: center;
+	cursor: pointer;
+}
+#back i{
+	display: block;
+	font-size: 12px;
+	color: #fff
+}
+
+.navtop{
+	width: 100%;
+	height: 61px;
+	border-bottom: 1px solid #24a7f9;
+	position: fixed;
+	top: 0;
+	left: 0;
+	box-shadow: 0px 2px 10px 5px rgba(0,0,0,0.3);
+	background: #fff;
+	z-index: 1000;
+}
+.navtop1{
+	width: 1200px;
+	height: 61px;
+	margin: 0 auto;
+}
+.navimg{
+	display: block;
+	float: left;
+	width: auto;
+	left: auto;
+	margin-top: 10px;
+}
+.navimg img{
+	width: 230px;
+	height: 42px;
+}
+.navtop1 ul{
+	width: 590px;
+	height: 61px;
+	box-sizing: border-box;
+	padding-top: 10px;
+	padding-left: 60px;
+	float: left;
+}
+.navtop1 ul li{
+	padding: 0 17px;
+	float: left;
+	height: 51px;
+}
+.navtop1 ul li a{
+	display: block;
+	font-size: 16px;
+	height: 33px;
+	border-radius: 5px;
+	color: #333;
+	background: #fff;
+	line-height: 33px;
+	padding: 0 5px;
+}
+.navtop1 ul li:first-child a{
+	background: #24a7f9;
+	color: #fff;
+}
+.navtop1 ul li a:hover{
+	background: #24a7f9;
+	color: #fff;
 }
